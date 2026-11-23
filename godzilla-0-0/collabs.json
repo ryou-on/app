@@ -1,0 +1,1109 @@
+{
+  "title": "映画『ゴジラ-0.0』公式コラボ一覧",
+  "about": "映画『ゴジラ-0.0』（2026年公開）の公式コラボレーションを、出典（公式発表・報道）に基づいて整理した非公式ファンまとめ。状態表記は2026年11月5日時点（開催中＝11月5日時点で期間内／今後開始＝11月6日以降に開始／終了済み＝11月4日までに終了／詳細待ち・未定＝公式発表で詳細未明示）。価格・期間は各コラボ先の公式発表に基づく。利用前に各出典ページで最新情報を要確認。",
+  "count": 53,
+  "categories": [
+    {
+      "id": "food",
+      "name": "食品・飲料",
+      "description": "コラボメニュー、コラボスイーツ、購入・レシート応募キャンペーン。"
+    },
+    {
+      "id": "apparel",
+      "name": "アパレル・雑貨",
+      "description": "衣料品、レザーグッズ、ホビー・トイなど。シリーズ企画で本作モチーフを含むものは注記付き。"
+    },
+    {
+      "id": "retail",
+      "name": "コンビニ・小売",
+      "description": "コンビニ店頭特典、商業施設のタイアップ、特別展。"
+    },
+    {
+      "id": "play",
+      "name": "ゲーム・エンタメ施設",
+      "description": "ゲーム・SNSコラボと、レジャー施設のイベント・コラボメニュー。"
+    },
+    {
+      "id": "travel",
+      "name": "交通・自治体・スポーツ",
+      "description": "ロケ地スタンプラリー、交通機関、プロスポーツ、SNSキャンペーン。"
+    },
+    {
+      "id": "theater",
+      "name": "入場特典・劇場コラボ",
+      "description": "入場者プレゼントと劇場チェーン独自の商品・タイアップ（公式グッズとは別枠）。"
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "category": "食品・飲料",
+      "category_id": "food",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "しゃぶ葉（すかいらーくグループ）",
+      "description": "しゃぶ葉初の映画コラボ。コラボコース3種、限定だし「絶望のブラックチゲだし」、「ゴジラの背びれ餃子」「ゴジラ風 漆黒のチーズ団子」。コース注文でオリジナルコルクコースター（ランダム5種）を1人1個。SNS投稿キャンペーンで抽選20名にムービーモンスターシリーズ ゴジラ(2026)。",
+      "period": "2026年10月22日〜11月中旬（数量限定・なくなり次第終了）",
+      "price": "平日ランチ豚2種コース 税込2,309円から",
+      "place": "全国のしゃぶ葉",
+      "note": "終了日は媒体により「11月中旬」「11月15日」と表記が揺れるため、公式発表の「11月中旬／なくなり次第終了」を採用。",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000719.000017486.html"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "食品・飲料",
+      "category_id": "food",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "ハードロックカフェ ジャパン",
+      "description": "コラボメニュー3品を販売。",
+      "period": "2026年10月26日〜11月15日",
+      "price": "「ゴジラ-0.0 バーガー」3,550円／「キッズゴジラバーガー」1,580円／「ゴジラ-0.0 シェイク」1,480円（いずれも税込）",
+      "place": "国内全5店舗（東京・六本木、上野駅東京、横浜、京都、ユニバーサル・シティウォーク大阪）",
+      "note": null,
+      "sources": [
+        {
+          "name": "ハードロックカフェ公式",
+          "url": "https://hardrockjapan.com/event/12533/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "食品・飲料",
+      "category_id": "food",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "世界の山ちゃん（エスワイフード）",
+      "description": "愛知県限定コラボ。コラボメニュー注文1品につきオリジナルステッカー1枚（山崎貴監督×鳥男デザイン）。SNSキャンペーンで抽選10名に公式グッズ。",
+      "period": "2026年11月1日〜11月15日",
+      "price": "コラボメニュー「ブラックMIXアイス-0.0」847円（税込）",
+      "place": "愛知県内の対象店舗",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000018.000183380.html"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "食品・飲料",
+      "category_id": "food",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "ぴよりん（ジェイアール東海フードサービス）",
+      "description": "限定スイーツ「ぴよりんゴジラ」販売、JR名古屋駅「ぴよりんvillage」のゴジラ仕様装飾、コラボグッズ全14種、デジタルスタンプラリー。コラボグッズは2026年10月22日よりJR東海MARKETでも販売。",
+      "period": "販売 2026年11月3日〜11月13日（装飾は11月17日まで）",
+      "price": "テイクアウト580円／店内飲食680円（報道ベース）",
+      "place": "名古屋駅・勝川駅の計3店舗",
+      "note": null,
+      "sources": [
+        {
+          "name": "JR東海MARKET",
+          "url": "https://market.jr-central.co.jp/shop/pages/godzilla.aspx"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category": "食品・飲料",
+      "category_id": "food",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "ピエトロ",
+      "description": "コラボメニューではなく購入キャンペーン「絶望スパゲティキャンペーン」。対象商品（洋麺屋ピエトロ パスタソース「絶望スパゲティ」／冷凍版）のレシート応募で『ゴジラ-0.0』公式グッズ等を抽選で合計215名に進呈。",
+      "period": "2026年11月3日〜2027年1月31日",
+      "price": null,
+      "place": null,
+      "note": null,
+      "sources": [
+        {
+          "name": "ピエトロ公式",
+          "url": "https://www.pietro.co.jp/godzilla_cp2026/"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category": "食品・飲料",
+      "category_id": "food",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "キリンビール「新・本麒麟」",
+      "description": "レシート応募「新・本麒麟×映画『ゴジラ-0.0』 再上陸キャンペーン」。賞品：24ポイント＝オリジナルジップアップパーカー（M・L各50名）、6ポイント＝オリジナルゲームシャツ（M・L各250名）、1ポイント＝Amazonギフトカード1,000円分（2種各500名）、合計1,600名。",
+      "period": "レシート有効期間 2026年11月4日〜12月18日／応募受付 2026年11月4日〜2027年1月8日（第1回締切11月30日）",
+      "price": "対象：本麒麟350ml・500ml缶（6缶パック・24缶ケース含む）",
+      "place": null,
+      "note": "店頭特典は「コンビニ・小売」のセブン‐イレブンのカードを参照。",
+      "sources": [
+        {
+          "name": "キリン公式キャンペーン",
+          "url": "https://cp.kirin.jp/story/38395"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category": "食品・飲料",
+      "category_id": "food",
+      "status": "開催中（要注記）",
+      "status_group": "開催中",
+      "partner": "ノーザンホースパーク（北海道）",
+      "description": "クッキー「ゴジラ対ノーザンホースパークの仲間たち」全3種（引退競走馬3頭デザイン）。",
+      "period": "2026年11月1日〜2027年2月予定（毎月数量限定）",
+      "price": "6個入り 2,200円（税込）",
+      "place": "パーク内ショップ＋公式オンラインショップ",
+      "note": "『ゴジラ』全体コラボとして発表され、本作公開にも言及する企画。",
+      "sources": [
+        {
+          "name": "アニメ！アニメ！",
+          "url": "https://animeanime.jp/release/prtimes/20261028/323019.html"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category": "アパレル・雑貨",
+      "category_id": "apparel",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "LACOSTE（ラコステ／第3弾）",
+      "description": "山崎貴監督描き下ろし（ゴジラとワニの対峙）イラストとロゴを使用したTシャツ4型＋キャップ1型＝全5型。",
+      "period": "発売 2026年11月1日（日本。ヨーロッパ一部は11月4日〜）",
+      "price": "Tシャツ16,500円／キャップ14,300円",
+      "place": "一部ラコステ店舗＋公式オンラインストア",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000256.000007377.html"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category": "アパレル・雑貨",
+      "category_id": "apparel",
+      "status": "今後開始",
+      "status_group": "これから",
+      "partner": "niko and...（第2弾）",
+      "description": "メンズアパレル全12種を順次発売。",
+      "period": "2026年11月12日〜順次発売",
+      "price": "スウェットプルオーバー8,000円／MA-1 18,000円／カレッジロゴキャップ3,630円（いずれも税込）",
+      "place": "全国のniko and...メンズ取扱店、and ST、ZOZOTOWN、Rakuten Fashion",
+      "note": "『ゴジラ』シリーズコラボ第2弾として『ゴジラ-0.0』公開記念を明記。第1弾（全19種）は2026年7月23日・27日発売のシリーズ企画。",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000003352.000001304.html"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "アパレル・雑貨",
+      "category_id": "apparel",
+      "status": "今後開始",
+      "status_group": "これから",
+      "partner": "イオン「ダブルフォーカス」限定",
+      "description": "『ゴジラ-0.0』『シン・ゴジラ』『ゴジラVSデストロイア』モチーフ全4種のうち、本作モチーフは2種。",
+      "period": "発売 2026年11月6日",
+      "price": "バックプリントクルーネックプルオーバー 税込3,278円／バックプリントZIPパーカ 税込4,378円",
+      "place": "全国のイオン「ダブルフォーカス」取扱店",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000006172.000007505.html"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category": "アパレル・雑貨",
+      "category_id": "apparel",
+      "status": "今後開始",
+      "status_group": "これから",
+      "partner": "アベイル（しまむらグループ）",
+      "description": "歴代怪獣＋最新作『ゴジラ-0.0』モチーフ、全11アイテム（トートバッグ、ショルダーバッグ、アクリルキーホルダー、Tシャツ、ジップパーカ、めがねケース等）。",
+      "period": "発売 2026年11月7日〜",
+      "price": null,
+      "place": "全国のアベイル＋しまむらパーク（同日12時〜）",
+      "note": "シリーズ企画であり本作単独コラボではない。",
+      "sources": [
+        {
+          "name": "コラボカフェ",
+          "url": "https://collabo-cafe.com/events/collabo/godzilla-goods-avail-2026/"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category": "アパレル・雑貨",
+      "category_id": "apparel",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "LOVOT（GROOVE X）",
+      "description": "コラボアイテム全3種を発売。「ゴジラLOVOT本体セット」も数量限定受注。映画半券持参で対象ストア来店者にステッカー進呈、越谷レイクタウンでの特別展示（2026年10月31日〜11月30日）、対象映画館でのシネマコラボも実施。",
+      "period": "2026年10月30日〜発売",
+      "price": "ベースウェア25,000円／バッグチャーム（ブラック）3,980円／クリアファイル1,300円（いずれも税込）",
+      "place": "LOVOTストア／ウェブストア",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000541.000055543.html"
+        },
+        {
+          "name": "LOVOT公式LP",
+          "url": "https://lovot.life/lp/godzilla-minuszero"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category": "アパレル・雑貨",
+      "category_id": "apparel",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "ドウシシャ「ゴリラシリーズ」",
+      "description": "「ゴジラVSゴリラの裸足（はだし）-ゴジラ来襲-」健康サンダル、「ゴジラVSゴリラのひとつかみ -ゴジラ来襲- GGRF-2601」ふくらはぎケア家電。",
+      "period": "発売 2026年11月3日〜",
+      "price": "いずれも7,700円",
+      "place": "全国のドン・キホーテ系列店舗（サンダルはASBee、Green Box等でも販売）",
+      "note": null,
+      "sources": [
+        {
+          "name": "アニメ！アニメ！",
+          "url": "https://animeanime.jp/article/2026/10/27/104249.html"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "category": "アパレル・雑貨",
+      "category_id": "apparel",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "クアトロガッツ（株式会社ガッツ）",
+      "description": "栃木レザー製品「小さいふ。コンチャ『ゴジラ-0.0』」「小さいかばん『ゴジラ-0.0』」。",
+      "period": "発売 2026年11月3日",
+      "price": "小さいふ。コンチャ 税込18,480円／小さいかばん 税込22,000円",
+      "place": "公式オンラインショップ",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000300.000031545.html"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "category": "アパレル・雑貨",
+      "category_id": "apparel",
+      "status": "開催中（受注販売）",
+      "status_group": "開催中",
+      "partner": "神木隆之介 × Co-LaVo Official Shop",
+      "description": "主演・神木隆之介の手描きゴジラを使用したコラボグッズ全5アイテムを受注販売。",
+      "period": "2026年10月20日18:00〜受注販売",
+      "price": "敷島Tシャツ5,500円／刺繍Tシャツ（Design by 神木）4,500円／敷島パーカー8,500円／敷島チャームセット1,200円／敷島ステッカーセット1,200円",
+      "place": "Co-LaVo Official Shop",
+      "note": null,
+      "sources": [
+        {
+          "name": "ORICON NEWS",
+          "url": "https://www.oricon.co.jp/news/2487683/full/"
+        },
+        {
+          "name": "Co-LaVo公式ショップ",
+          "url": "https://colavoshop.jp/store/products/detail.php?product_id=136"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "category": "アパレル・雑貨",
+      "category_id": "apparel",
+      "status": "今後詳細発表",
+      "status_group": "詳細待ち・未定",
+      "partner": "ボークス 造形村「SWS（SUPER WING SERIES）」",
+      "description": "劇中登場飛行機の特別仕様スケールモデル発売を2026年11月4日頃に発表。",
+      "period": "機体名・原型等の詳細は2026年11月7日「ホビーラウンド35」（TRC東京流通センター）で初公開予定",
+      "price": null,
+      "place": null,
+      "note": "価格・発売日は2026年11月5日時点で未発表。",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000148.000008991.html"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "category": "アパレル・雑貨",
+      "category_id": "apparel",
+      "status": "今後開始（ホビー）",
+      "status_group": "これから",
+      "partner": "バンダイ ガシャポン「HG ゴジラ-0.0」",
+      "description": "本作のゴジラを立体化したカプセルトイ。",
+      "period": "2026年11月第4週〜順次発売予定",
+      "price": "1回500円",
+      "place": "全国のガシャポン自販機等",
+      "note": null,
+      "sources": [
+        {
+          "name": "バンダイ公式カタログ",
+          "url": "https://www.bandai.co.jp/catalog/item.php?jan_cd=4582770071634000"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "category": "アパレル・雑貨",
+      "category_id": "apparel",
+      "status": "今後開始（要注記）",
+      "status_group": "これから",
+      "partner": "山耕（恐竜専門店ダイナソーベース、福井）×東宝「ゴジラランドセルシリーズ」",
+      "description": "全3種（ゴジラ／キングギドラ／メカゴジラ）。",
+      "period": "『ゴジラ-0.0』公開に合わせて2026年11月3日に先行公開／予約受付は2027年1月23日〜公式サイト",
+      "price": "93,500円（税込）",
+      "place": null,
+      "note": "1954年版ゴジラ中心のシリーズ商品であり、本作単独コラボではない。",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000010.000084069.html"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "category": "コンビニ・小売",
+      "category_id": "retail",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "セブン‐イレブン × キリン「本麒麟」",
+      "description": "本麒麟を一度に2本（組合せ自由）購入で『ゴジラ-0.0』コラボステッカー（全2種、H80×W52mm、各店先着20枚）を1枚プレゼント。",
+      "period": "2026年11月5日10:00〜11月20日（なくなり次第終了）",
+      "price": "対象：本麒麟350ml 税込203.50円／500ml 税込289.30円（6缶パックも対象）",
+      "place": "全国のセブン‐イレブン",
+      "note": null,
+      "sources": [
+        {
+          "name": "セブン‐イレブン公式",
+          "url": "https://www.sej.co.jp/cmp/gzl2611.html"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "category": "コンビニ・小売",
+      "category_id": "retail",
+      "status": "終了済み（予約期間）",
+      "status_group": "終了済み",
+      "partner": "ローソン @Loppi",
+      "description": "@Loppi限定グッズ付ムビチケ前売券（コンビニ）。グッズは「ムービーモンスターシリーズ ゴジラ(2026)クリアラメブルーver.」。",
+      "period": "予約期間 2026年9月11日14:00〜11月2日23:30／グッズ引換日 2027年3月8日",
+      "price": "ムビチケ一般1,500円＋グッズ3,850円＝セット税込5,350円",
+      "place": "全国のローソン @Loppi",
+      "note": null,
+      "sources": [
+        {
+          "name": "ローソン公式",
+          "url": "https://www.lawson.co.jp/campaign/lop_godzilla_minuszero_movie_goods/"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "category": "コンビニ・小売",
+      "category_id": "retail",
+      "status": "今後開始",
+      "status_group": "これから",
+      "partner": "イトーヨーカドー専門店街",
+      "description": "ブラックフライデー企画「BLACK FESTA」対象46施設。レシート合計2,000円以上で「ゴジラvsブラック大抽選会」（3コース全14種・合計320名）、43店舗で1,000円以上購入者に『ゴジラ-0.0』デザイン「MYブラックサンダー」を先着プレゼント、3店舗でクイズラリー。",
+      "period": "2026年11月21日〜11月29日",
+      "price": null,
+      "place": "イトーヨーカドー専門店街 対象46施設",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000010.000192820.html"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "category": "コンビニ・小売",
+      "category_id": "retail",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "リバーウォーク北九州 × T・ジョイ リバーウォーク北九州",
+      "description": "公開記念コラボキャンペーン。歴代ゴジラ映画ポスターパネル展（全31作品）、ガラポン抽選会（期間中税込2,000円以上のレシートで1回・最大3回、特賞等にコラボロングTシャツ、アクリルキーホルダー、参加賞コラボステッカー）。",
+      "period": "2026年10月13日〜11月15日（ゴジラ立像展示は10月13日〜25日／ガラポン抽選会は11月13日〜15日）",
+      "price": null,
+      "place": "リバーウォーク北九州（福岡県北九州市）",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000012.000138687.html"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "category": "コンビニ・小売",
+      "category_id": "retail",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "あみプレミアム・アウトレット（茨城）",
+      "description": "茨城県コラボ（ロケ地企画）と連動したタイアップ「茨城にゴジラ、再び。」。場内スタンプラリー（茨城県作成オリジナルデザインシール＋壁紙）、5店舗でコラボメニュー（ゴジラブラックパフェ、ゴジラクレープ等）・コラボグッズ（ゴジラプチバウム、ゴジラ箸等）。",
+      "period": "2026年11月3日〜2027年2月28日",
+      "price": null,
+      "place": "あみプレミアム・アウトレット（茨城県阿見町）",
+      "note": null,
+      "sources": [
+        {
+          "name": "あみプレミアム・アウトレット公式",
+          "url": "https://www.premiumoutlets.co.jp/ami/sp/godzilla/"
+        },
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000811.000009047.html"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "category": "コンビニ・小売",
+      "category_id": "retail",
+      "status": "今後開始",
+      "status_group": "これから",
+      "partner": "大丸東京店",
+      "description": "特別展「ゴジラ博 マイナスの世界」。『ゴジラ-1.0』『ゴジラ-0.0』の台本・絵コンテ・撮影用バイク「メグロ」等50点超、高さ2m超の『ゴジラ-0.0』スタチュー展示、記念グッズ販売。",
+      "period": "2026年11月6日〜11月17日",
+      "price": "入場料：一般・大学生1,500円（前売1,300円）／中高生1,000円（前売800円）／小学生700円（前売500円）",
+      "place": "大丸東京店 11階催事場",
+      "note": "大阪開催にも言及があるが、2026年11月5日時点で日程・会場の確定情報は未確認。",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000002525.000005342.html"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "category": "ゲーム・エンタメ施設",
+      "category_id": "play",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "ROUND1（ラウンドワンジャパン）",
+      "description": "『ゴジラ-0.0』ROUND1コラボキャンペーン。ボウリング・カラオケ93店舗でコラボメニュー、スポッチャ併設55店舗でアレンジドリンク／コラボポップコーン（ノベルティ付き）、コラボパック（ボウリング98店舗等）、スコア登録キャンペーン（A5クリアファイル）、スコアモニター演出、アミューズメント100店舗で限定クレーンゲームプライズ（500円投入でステッカー）。",
+      "period": "2026年9月18日〜2027年1月11日",
+      "price": null,
+      "place": "全国のROUND1各店舗（施策により対象店舗数が異なる）",
+      "note": "プレスリリース本文に開始日の表記ゆれあり（見出し・特設ページの期間を採用）。",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000089.000027772.html"
+        },
+        {
+          "name": "ROUND1公式 特設ページ",
+          "url": "https://www.round1.co.jp/collaboration/"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "category": "ゲーム・エンタメ施設",
+      "category_id": "play",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "快活CLUB（快活フロンティア）× ダーツライブ",
+      "description": "ダーツコラボ。ゲーム「501」が『ゴジラ-0.0』仕様で限定配信（背景・演出を獲得可能）、壁紙コンプリート抽選で50名にオリジナルダーツライブカード、SNS企画（公式フィギュア＋ムビチケペア5名、ダーツライブカード10名）。",
+      "period": "2026年11月4日〜2027年1月11日",
+      "price": null,
+      "place": "ダーツライブ設置店（快活CLUB）",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000159.000075275.html"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "category": "ゲーム・エンタメ施設",
+      "category_id": "play",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "TikTok（TikTok Spotlight）",
+      "description": "グローバルキャンペーン、日本を含む10の国・地域で展開。国内初の実写映画コラボ。投稿キャンペーン（4ミッション達成でプロフィールフレーム）、Search Easter Egg、日米でのSearch Hub展開。別途、TikTok LIVE「LIVE FANDOM+ 2026 Oct/Nov feat. ゴジラ-0.0」が2026年10月26日12:00〜実施（限定ギフト等）。",
+      "period": "2026年11月3日12:00〜開始",
+      "price": null,
+      "place": null,
+      "note": "SpotlightキャンペーンおよびTikTok LIVE企画の終了日は未発表・未確認。",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000001362.000030435.html"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "category": "ゲーム・エンタメ施設",
+      "category_id": "play",
+      "status": "開催中（要注記）",
+      "status_group": "開催中",
+      "partner": "LINE：モンスターファーム（LINEヤフー／コーエーテクモゲームス）",
+      "description": "ゴジラ、キングギドラ等を育成可能なコラボ。",
+      "period": "2026年10月31日〜開始",
+      "price": null,
+      "place": null,
+      "note": "『ゴジラ』シリーズコラボとして発表され、本作公開にも言及。終了日は未確認。",
+      "sources": [
+        {
+          "name": "Game*Spark",
+          "url": "https://www.gamespark.jp/release/prtimes/20261030/325252.html"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "category": "ゲーム・エンタメ施設",
+      "category_id": "play",
+      "status": "発表済み・詳細待ち",
+      "status_group": "詳細待ち・未定",
+      "partner": "ゴジラ バトルライン（ゴジバト、東宝ゲームス）",
+      "description": "映画『ゴジラ-0.0』コラボを2026年11月3日に発表。記念として全ユーザーに★4「ゴジラ(2023) 銀座襲来ver.」と山崎貴監督サイン入り★3バトルメモリー（『ゴジラ-0.0』ポスター使用）をプレゼント。",
+      "period": null,
+      "price": null,
+      "place": null,
+      "note": "コラボ本編の開催期間・詳細は2026年11月5日時点で続報待ち。",
+      "sources": [
+        {
+          "name": "電撃オンライン",
+          "url": "https://dengekionline.com/article/202611/92909"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "category": "ゲーム・エンタメ施設",
+      "category_id": "play",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "箱根小涌園ユネッサン",
+      "description": "コラボイベント。ゴジラの熱線風呂、ゴジラ級ロウリュ＆アウフグース、コラボ装飾、ちびゴジラパズルラリー、コラボチケット（アクリルスタンド付き）、映画半券割引（チケット1枚につき5名まで）。",
+      "period": "2026年10月10日〜2027年1月4日",
+      "price": "映画半券割引：大人2,500円〜→2,200円〜／こども1,400円〜→1,100円〜。コラボメニュー：ゴジラカレー1,300円、ゴジラの熱線ソーダ600円、ゴジラ氷菓400円（報道ベース）",
+      "place": "箱根小涌園ユネッサン（神奈川県箱根町）",
+      "note": null,
+      "sources": [
+        {
+          "name": "ユネッサン公式",
+          "url": "https://www.yunessun.com/godzilla00/"
+        },
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000001190.000001368.html"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "category": "ゲーム・エンタメ施設",
+      "category_id": "play",
+      "status": "今後開始",
+      "status_group": "これから",
+      "partner": "ニジゲンノモリ「ゴジラ迎撃作戦」（兵庫・淡路島）",
+      "description": "『ゴジラ-0.0』特別展をゴジラミュージアムで開催（場面写真パネル、スタチュー等）、「ゴジラ-0.0 限定クリスタルフィギュア」を期間限定販売。併せて宿泊施設GRAND CHARIOT北斗七星135°のゴジラコラボルーム宿泊者限定で『ゴジラ-0.0』オリジナルデザートプレートを提供中。",
+      "period": "特別展 2026年12月12日〜2027年12月12日／デザートプレートは2026年11月3日〜提供（終了日不明）",
+      "price": null,
+      "place": "ニジゲンノモリ（兵庫県淡路市）",
+      "note": null,
+      "sources": [
+        {
+          "name": "ニジゲンノモリ公式",
+          "url": "https://nijigennomori.com/2026/11/03/godzilla-1241/"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "category": "ゲーム・エンタメ施設",
+      "category_id": "play",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "西武園ゆうえんち",
+      "description": "「ゴジラウィーク」。『ゴジラ・ザ・ライド』2作品を半日ごとに上映、利用者にノベルティシール、限定1日レヂャー切符（クリアファイル付き）。",
+      "period": "2026年11月2日〜11月8日",
+      "price": "限定1日レヂャー切符：大人4,900円／中高生4,200円／小学生3,600円／未就学児1,900円（アソビュー！のみ、各日100枚）",
+      "place": "西武園ゆうえんち（埼玉県所沢市）",
+      "note": null,
+      "sources": [
+        {
+          "name": "西武園ゆうえんち公式（PDF）",
+          "url": "https://www.seibuen-amusement-park.jp/20261016_newsrelease_g.pdf"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "category": "ゲーム・エンタメ施設",
+      "category_id": "play",
+      "status": "今後開始",
+      "status_group": "これから",
+      "partner": "筑波海軍航空隊記念館（茨城）ほか",
+      "description": "特別展「映画『ゴジラ-0.0』コラボ展」。会期中入館特典あり。",
+      "period": "2026年11月7日〜2027年6月27日",
+      "price": "会期中入館料は特別料金（おとな700円、こども600円）。11月13日茨城県民の日は無料だが特典なし",
+      "place": "筑波海軍航空隊記念館（茨城県笠間市）",
+      "note": "当初発表では鹿島海軍航空隊跡での開催も決定とされたが、同会場側の確定日程は要再確認。",
+      "sources": [
+        {
+          "name": "茨城県公式観光サイト",
+          "url": "https://p-ibaraki.com/"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "category": "ゲーム・エンタメ施設",
+      "category_id": "play",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "お台場3施設合同（デックス東京ビーチ／ダイバーシティ東京 プラザ／アクアシティお台場）",
+      "description": "「ゴジラ襲来―お台場合同作戦」。ゴジラ立像展示、歴代ポスター展示、ちびゴジラ デジタルパズルラリー、1,000円以上購入でオリジナルステッカー（全5種）等。ゆりかもめ車両ジャック（交通・自治体・スポーツの項）とも連動。",
+      "period": "2026年10月23日〜11月30日",
+      "price": null,
+      "place": "お台場の3商業施設（東京都港区・江東区）",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000141.000014324.html"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "ロケ地4地区合同（茨城県・滋賀県・松本市・舞鶴市）「ロケ地周遊作戦！」",
+      "description": "映画公式特設の合同スタンプラリー。スタンプ1つでGステッカー、地区内全スタンプで缶バッジ＋抽選応募（最大4口、賞品に山崎貴監督描き下ろし複製原画、サイン入りポスター等）。スポット例：茨城＝道の駅奥久慈だいごEAST、筑波海軍航空隊記念館、あみプレミアム・アウトレット、道の駅グランテラス筑西／滋賀＝長浜鉄道スクエア、彦根城、ローザンベリー多和田／松本＝松本駅観光案内所、松本市美術館、松本市立博物館等／舞鶴＝舞鶴引揚記念館、舞鶴赤れんがパーク等。",
+      "period": "2026年11月3日〜2027年2月28日",
+      "price": null,
+      "place": "茨城県・滋賀県・長野県松本市・京都府舞鶴市の各ロケ地スポット",
+      "note": "同サイトでは海上自衛隊 鹿屋航空基地史料館（二式大艇展示、入館無料）と京都鉄道博物館（ロケ地、一般1,500円等）でもコラボ実施中と案内しているが、個別内容の詳細は未確認。",
+      "sources": [
+        {
+          "name": "映画公式ロケ地特設サイト",
+          "url": "https://godzilla-movie2026.jp/"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "スカイダック台場（日の丸自動車興業）",
+      "description": "特別ラッピング水陸両用バス「東京湾水陸両用哨戒作戦 ゴジラ探索航路」。田中美央の特別アナウンス＋映画BGM、コラボグッズ付きチケット（クリアファイル、デコシール、チョロQ、ショッパー）。",
+      "period": "2026年11月3日〜2027年2月28日",
+      "price": "コラボグッズ付きチケットは乗車料金＋2,000円（数量限定）。通常料金：平日大人3,600円／土日祝4,000円等（報道ベース）",
+      "place": "お台場発着（東京都）",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000035.000046643.html"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "ゆりかもめ",
+      "description": "お台場合同作戦の一環で車両ジャックを実施。お台場デジタルスタンプラリー（ULTRA PLANET企画運営、対象スポット10カ所以上＋GOALでオリジナルフォトフレーム獲得）とも連動。",
+      "period": "車両ジャック 2026年10月15日〜11月12日（2両編成）",
+      "price": null,
+      "place": "ゆりかもめ線（新橋〜豊洲）",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000141.000014324.html"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "フェリーさんふらわあ（商船三井さんふらわあ）",
+      "description": "特別デザイン御船印「ゴジラ級ネットワーク攻略作戦」を販売。購入者に先着でGステッカー1枚。",
+      "period": "2026年11月3日出航便〜2027年3月31日出航便",
+      "price": "御船印 600円（税込）",
+      "place": "関西〜九州3航路（大阪〜別府／大分〜神戸／大阪〜志布志）計6隻の船内ショップ",
+      "note": null,
+      "sources": [
+        {
+          "name": "フェリーさんふらわあ公式",
+          "url": "https://www.ferry-sunflower.co.jp/news/article/godzilla_collaboration.html"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "開催中（終了日不明）",
+      "status_group": "開催中",
+      "partner": "豊川稲荷（豊川閣妙厳寺、愛知）",
+      "description": "72年ぶりの御開帳記念コラボ。第1弾として墨絵アーティスト西元祐貴による『ゴジラ』(1954)と『ゴジラ-0.0』の描き下ろし墨絵各1点を展示。",
+      "period": "2026年11月3日〜",
+      "price": null,
+      "place": "豊川稲荷 西元祐貴美術館（愛知県豊川市）",
+      "note": "報道では限定グッズ展開・特別コラボ進行中にも言及があるが、終了日・グッズ詳細は2026年11月5日時点で未確認。",
+      "sources": [
+        {
+          "name": "時事通信",
+          "url": "https://www.jiji.com/jc/article?k=000000016.000153886&g=prt"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "開催中・今後",
+      "status_group": "開催中",
+      "partner": "B.LEAGUE（りそなグループ B.LEAGUE 2026-27）",
+      "description": "スペシャルコラボ：「B.LEAGUE PREMIER OPENING SELECTION」各会場でクラブコラボオリジナルステッカーを来場者全員に配布、スペシャルコラボムービー、「B.LEAGUE CARD」コラボ等。東京ユナイテッドBCもホームゲームで実施。",
+      "period": "個別日程は順次発表",
+      "price": null,
+      "place": null,
+      "note": "個別クラブ実施例：アルバルク東京は2026年10月24日 三河戦（TOYOTA ARENA TOKYO）で限定クリアファイル配布・フォトスポット等を実施（終了済み）。",
+      "sources": [
+        {
+          "name": "B.LEAGUE公式",
+          "url": "https://www.bleague.jp/news_detail/id=620617"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "今後開始",
+      "status_group": "これから",
+      "partner": "FC東京（Jリーグ）",
+      "description": "鹿島アントラーズ戦でコラボ実施：コラボビジュアル掲出、ゴジラ襲来演出、田中美央来場、青赤パーク飲食333円以上購入で先着1,500名にGステッカー。",
+      "period": "2026年11月7日 鹿島アントラーズ戦",
+      "price": null,
+      "place": "味の素スタジアム（東京都調布市）",
+      "note": null,
+      "sources": [
+        {
+          "name": "FC東京公式",
+          "url": "https://www.fctokyo.co.jp/news/details/342197/"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "今後開始",
+      "status_group": "これから",
+      "partner": "ガンバ大阪（Jリーグ）",
+      "description": "セレッソ大阪戦でコラボ実施：コラボビジュアル、ゴジラ立像展示（撮影者先着500名にステッカー）、コラボグッズ販売開始。",
+      "period": "2026年11月8日 セレッソ大阪戦",
+      "price": null,
+      "place": "パナソニックスタジアム吹田（大阪府吹田市）",
+      "note": null,
+      "sources": [
+        {
+          "name": "ガンバ大阪公式",
+          "url": "https://www.gamba-osaka.net/news/index/no/21087/c/2/year/2026/month/10/"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "今後開始",
+      "status_group": "これから",
+      "partner": "アルビレックス新潟（Jリーグ）",
+      "description": "コラボ実施：撮影スポット、SNS投稿でGステッカー、限定コラボグッズ販売。",
+      "period": "2026年11月14日",
+      "price": null,
+      "place": "デンカビッグスワンスタジアム（新潟県新潟市）",
+      "note": null,
+      "sources": [
+        {
+          "name": "アルビレックス新潟公式",
+          "url": "https://www.albirex.co.jp/news/70303/"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "終了済み（第2弾は10月実施）",
+      "status_group": "終了済み",
+      "partner": "TOYOTA GAZOO Racing Haas F1 Team",
+      "description": "東宝とのゴジラコラボ第2弾はF1アメリカGP（全米公開11月6日を控えた施策）で、『ゴジラ-0.0』のゴジラを用いた特別カラーリングを2026年10月19日にオンライン公開。レーシングスーツ（オコン、ベアマン、カントリーマン着用）、関連コラボグッズ（フーディー等）を販売。",
+      "period": "第2弾は2026年10月に実施",
+      "price": null,
+      "place": null,
+      "note": "第1弾は2026年3月F1日本GPの特別リバリー。",
+      "sources": [
+        {
+          "name": "ORICON NEWS",
+          "url": "https://www.oricon.co.jp/news/2486977/full/"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "ルートインホテルズ",
+      "description": "公式Xフォロー＆リポストキャンペーン。抽選30名にB2ポスター＆オリジナルGステッカー。",
+      "period": "2026年11月3日10:00〜11月9日23:59",
+      "price": null,
+      "place": null,
+      "note": null,
+      "sources": [
+        {
+          "name": "ルートインホテルズ公式",
+          "url": "https://www.route-inn.co.jp/campaign/169/"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "category": "交通・自治体・スポーツ",
+      "category_id": "travel",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "アジラ（Asilla）",
+      "description": "公式Xフォロー＆リポストで抽選54名にオリジナルGステッカー（全5種）。",
+      "period": "応募期間 2026年10月23日〜12月20日23:59",
+      "price": null,
+      "place": null,
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000378.000043312.html"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "category": "入場特典・劇場コラボ",
+      "category_id": "theater",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "入場者プレゼント（全国の上映館／東宝配給）",
+      "description": "「光る！ゴジラ(2026)ミニフィギュア」全3種（レッド／ブルー／クリア、蓄光仕様、全長約5cm）。鑑賞1人につき1つランダム配布。",
+      "period": "2026年11月3日〜",
+      "price": "全国合計200万体限定",
+      "place": "全国の『ゴジラ-0.0』上映館",
+      "note": "劇場告知では「3週目特典＆一挙上映限定復刻ビジュアルカード」の存在にも言及があるが、2026年11月5日時点の詳細（配布開始日・デザイン）は未確認。",
+      "sources": [
+        {
+          "name": "ORICON NEWS",
+          "url": "https://www.oricon.co.jp/news/2488369/full/"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "category": "入場特典・劇場コラボ",
+      "category_id": "theater",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "IMAX（東宝／IMAX）",
+      "description": "日本映画初のIMAXカスタムカウントダウン映像。『ゴジラ-0.0』IMAX上映回でのみ上映、海外でも順次予定。",
+      "period": "2026年11月3日〜",
+      "price": null,
+      "place": "全国のIMAX上映館",
+      "note": null,
+      "sources": [
+        {
+          "name": "シネマトゥデイ",
+          "url": "https://www.cinematoday.jp/news/N0157643"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "category": "入場特典・劇場コラボ",
+      "category_id": "theater",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "TOHOシネマズ",
+      "description": "The Prime Collection ポップコーンボックス／ドリンクカップのほか、通常のポップコーンボックス（ゴジラ）、ドリンクカップホルダー（ゴジラ）も販売。TOHOシネマズ限定ソフビ3種の販売、公式アプリ限定チケット購入キャンペーン（抽選8名に非売品グッズ）。",
+      "period": "2026年11月2日〜数量限定（仙台は10月31日先行／一部商品は11月2日19:00〜先行販売）",
+      "price": "ポップコーンボックス17,800円（ポップコーンL付き）／ドリンクカップ4,800円（ドリンク付き）／通常ポップコーンボックス4,300円（ポップコーンM付き）／ドリンクカップホルダー3,100円（ドリンク付き）",
+      "place": null,
+      "note": "一部商品は完売劇場あり（ウェブ調査時点の情報）。",
+      "sources": [
+        {
+          "name": "TOHOシネマズ公式（グッズ）",
+          "url": "https://www.tohotheater.jp/campaign/godzillaminuszero-goods.html"
+        },
+        {
+          "name": "TOHOシネマズ公式（ポップコーン）",
+          "url": "https://www.tohotheater.jp/campaign/godzillaminuszero-popcorndrink.html"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "category": "入場特典・劇場コラボ",
+      "category_id": "theater",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "ローソン・ユナイテッドシネマ／ユナイテッド・シネマ／シネプレックス",
+      "description": "タイアップキャンペーンを順次実施。背びれ仕切り付きハーフ＆ハーフポップコーン、ご当地上陸ポスター展示＋X投稿抽選（応募11月3日〜12月17日）、特別デザインCLUB-SPICEカード（20,000枚限定、入会600円／切替300円）、ポップコーンBOX、ドリンクカップホルダー付きドリンクセット。",
+      "period": "2026年10月28日〜順次実施（ポップコーンBOX等は11月3日発売、CLUB-SPICEカードは11月3日〜受付）",
+      "price": "ハーフ＆ハーフポップコーン M550円（一部580円）／L650円（同680円）／ポップコーンBOX 4,200円／ドリンクセット3,000円",
+      "place": null,
+      "note": null,
+      "sources": [
+        {
+          "name": "ローソン・ユナイテッドシネマ公式（PDF）",
+          "url": "https://www.unitedcinemas.jp/img/release/2026/20261023178.pdf"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "category": "入場特典・劇場コラボ",
+      "category_id": "theater",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "109シネマズ",
+      "description": "限定コラボパン「ゴジラパン 激闘レッド」（ピザソース味）を対象劇場の飲食売店で販売、先着特典オリジナルステッカー。IMAX鑑賞者向け抽選キャンペーンも実施。",
+      "period": "2026年11月3日〜",
+      "price": "「ゴジラパン 激闘レッド」600円（税込）",
+      "place": "対象17劇場",
+      "note": null,
+      "sources": [
+        {
+          "name": "109シネマズ公式",
+          "url": "https://109cinemas.net/news/10105.html"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "category": "入場特典・劇場コラボ",
+      "category_id": "theater",
+      "status": "開催中",
+      "status_group": "開催中",
+      "partner": "クラッパーズダイナー（グランドシネマサンシャイン池袋 5F）",
+      "description": "劇場併設ダイナーのコラボドリンク。1点ごとにオリジナルステッカー（全5種）ランダム1枚、店内装飾。",
+      "period": "2026年10月23日〜11月下旬予定",
+      "price": "コラボドリンク「ゴジラのショコラ」935円（店内飲食時・税込）",
+      "place": "グランドシネマサンシャイン池袋 5F（東京都豊島区）",
+      "note": null,
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "url": "https://prtimes.jp/main/html/rd/p/000000062.000006849.html"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "category": "入場特典・劇場コラボ",
+      "category_id": "theater",
+      "status": "終了済み（販売期間）",
+      "status_group": "終了済み",
+      "partner": "ムビチケ前売特典（各社）",
+      "description": "ゴジラ・ストア：限定タンブラー付、クリアファイル・クリアチケット・ステッカーセット付／アニメイト：アニメイト限定A5アクリルパネル付ムビチケ（カード）（受取開始10月16日）／MOVIE WALKER STORE：劇場スケール巨大ムビチケ、1/2サイズ。ローソン@Loppi版は「コンビニ・小売」の項を参照。",
+      "period": "販売期間は主に2026年9月11日14:00〜11月2日（MOVIE WALKER STOREは9月11日〜9月27日）",
+      "price": "ゴジラ・ストア：タンブラー付4,800円／セット付2,985円、アニメイト：4,470円、MOVIE WALKER STORE：巨大26,900円／1/2サイズ9,800円",
+      "place": null,
+      "note": null,
+      "sources": [
+        {
+          "name": "映画公式チケットページ",
+          "url": "https://godzilla-minuszero.toho-movie.jp/tickets.html"
+        }
+      ]
+    }
+  ],
+  "official_goods": [
+    {
+      "name": "劇場用パンフレット（東宝）",
+      "description": "特別版1,430円（税込、300×225mm、72ページ＋カバー）／通常版1,100円（税込）。上映劇場で販売。",
+      "sources": [
+        {
+          "name": "東宝公式",
+          "url": "https://www.toho.co.jp/movie/goods/pgodzilla-0/index.html"
+        }
+      ]
+    },
+    {
+      "name": "劇場商品の一般販売",
+      "description": "TOHOシネマズ等で購入制限付きで販売される劇場商品群（ムービーモンスターシリーズ劇場公開記念カラー、クリアファイル、タオル、Tシャツ等）。東宝公式オンラインストアでも劇場商品ページを展開。全ラインナップの網羅は本一覧の対象外とし、代表例のみ記載。",
+      "sources": [
+        {
+          "name": "東宝公式オンラインストア",
+          "url": "https://tohoentertainmentonline.com/shop/e/eGStheatergoods/"
+        }
+      ]
+    },
+    {
+      "name": "参考（シリーズグッズ）",
+      "description": "ベネリックのカプセルトイ2種（プレートチャーム300円／miniTシャツキーホルダー400円、2026年10月下旬〜、本作デザインを含む）、ハゴロモ「ゴジラ2027年版カレンダー」3,410円（2026年11月7日発売）等は『ゴジラ』シリーズ全体の商品展開として確認したもので、本作単独コラボではないため一覧本体には含めていない。",
+      "sources": []
+    }
+  ],
+  "unverified_notes": [
+    "キリン「本麒麟」キャンペーンの他店舗展開：集約ブログではローソン限定ステッカー（全2種）、スーパー等でのダイカットステッカー／マグネット／6缶パック特典グラスの目撃情報があるが、2026年11月5日時点でキリン／各小売の公式発表での裏付けが取れなかったため断定していない（公式確認済みはセブン‐イレブン特典とキリン公式レシート応募のみ）。参考（非公式まとめ）：https://puchipurabu.com/omake-kirin-godzilla/",
+    "『ゴジラ バトルライン』コラボ本編の開催期間・内容（発表と記念配布のみ確認）。",
+    "『LINE：モンスターファーム』コラボの終了日。",
+    "ボークス「SWS」特別仕様モデルの機体名・価格・発売日（2026年11月7日公開予定）。",
+    "TikTok SpotlightキャンペーンおよびTikTok LIVE企画の終了日。",
+    "豊川稲荷コラボの終了日と限定グッズの詳細。",
+    "京都鉄道博物館／海上自衛隊 鹿屋航空基地史料館のコラボ個別内容・期間（映画公式ロケ地特設サイトで「実施中」とのみ確認）。",
+    "筑波／鹿島の2会場構成について、鹿島海軍航空隊跡側の確定日程。",
+    "「ゴジラ博 マイナスの世界」大阪開催の日程・会場詳細。",
+    "本家かまどや等の単発のSNSフォロー＆リポスト企画は、懸賞集約サイトのみが根拠で主催者公式ページで確認できなかったため一覧から除外した。"
+  ]
+}
